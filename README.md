@@ -1,3 +1,6 @@
-# Project 1
+#Book-Arena
 
-Web Programming with Python and JavaScript
+A website for getting reviews for various books.
+It also have an API which can be used by others!
+
+
